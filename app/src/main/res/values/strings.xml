@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vegetable factory</string>    
+    <string name="Play">Free game</string>
+    <string name="Level">Levels</string>
+    <string name="Instruction">Instruction</string>
+    <string name="Quit">Quit</string>
+    <string name="Buck">Back</string>
+    <string name="Yes">Yes</string> 
+    <string name="No">No</string>
+    <string name="Ok">OK</string>
+    <string name="Second">sec.</string>
+   
+    <string name="Text_Instruction">You must find two identical pieces, between which , don\'t will be other shapes, and
+         which can be joined by broken lines, containing not more than two bends. </string>
+     
+    <string name="Text_Title_Win">Great, you win!</string>
+    <string name="Text_Win">you find pairs for all picures</string>
+        
+    <string name="Text_Title_Lose">Sorry, you lose</string>
+    <string name="Text_Lose">Time is Over</string>
+    
+    <string name="Text_Title_Quit">Are you shure?</string>
+    <string name="Text_Quit"> You really want quit?</string>
+    
+    <string name="Text_Title_Lose_Step">Sorry, you lose</string>
+    <string name="Text_Lose_Step">No more elements, that would be possible to combine</string>
+    
+    <string name="Text_Title_Pause"></string>
+    <string name="Text_Pause"></string>
+    
+    <string name="Text_Title_Sorry">Sorry</string>
+    <string name="Text_Sorry">We do not save unfinished games, you have to start from the beginning</string>    
+   
+</resources>

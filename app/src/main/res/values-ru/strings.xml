@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Овощная фабрика</string>   
+    <string name="Play">Свободная игра</string>
+    <string name="Level">Уровни</string>
+    <string name="Instruction">Инструкция</string>
+    <string name="Quit">Выход</string>
+    <string name="Buck">Назад</string>
+    <string name="Yes">Да</string> 
+    <string name="No">Нет</string>
+    <string name="Ok">OK</string>
+    <string name="Second">сек.</string>
+    
+    
+    <string name="Text_Instruction">Вам необходимо найти две одинаколвые фигуры,
+         между которыми не будет других фигур, и которое можно соединить ломанной, содержащей не более двух изгибов</string>
+    
+    <string name="Text_Title_Win">Поздравляем, вы выиграли</string>     
+    <string name="Text_Win">Вы нашли пары для всех картинок</string>
+        
+    <string name="Text_Title_Lose">Вы проиграли</string>
+    <string name="Text_Lose">Время данное на поиск, истекло</string>
+    
+    <string name="Text_Title_Quit">Вы уверенны?</string>
+    <string name="Text_Quit">Вы действительно хотите закончить игру?</string>
+    
+    <string name="Text_Title_Lose_Step">Вы проиграли</string>
+    <string name="Text_Lose_Step">Не осталось элементов, которые возможно было бы соединить</string>
+    
+    <string name="Text_Title_Pause"></string>
+    <string name="Text_Pause"></string>
+    
+    <string name="Text_Title_Sorry">Извините</string>
+    <string name="Text_Sorry">Мы не сохраняем недоигранные игры, вам придется начать с начала</string>    
+
+</resources>

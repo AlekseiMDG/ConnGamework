@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutMain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/grass"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:contentDescription="@string/Text_Pause"
+        android:id="@+id/imgPause1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/dialog_fon_pause" />
+
+</LinearLayout>
